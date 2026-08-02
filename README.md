@@ -1,5 +1,8 @@
 # German Vocabulary Master
 
+[![Deploy](https://github.com/ploutoscrypto/german-vocab-master/actions/workflows/deploy.yml/badge.svg)](https://github.com/ploutoscrypto/german-vocab-master/actions/workflows/deploy.yml)
+**Live app:** https://ploutoscrypto.github.io/german-vocab-master/
+
 An **offline-first Progressive Web App** for permanently remembering German
 vocabulary. Import messy word lists from ChatGPT (TXT / Markdown / CSV / paste)
 and the app extracts, organises and schedules every word for review — the
