@@ -1,0 +1,205 @@
+Vocabulary Sample Tabelle
+
+User: Anonymous
+Created: 5/28/2026 19:32:49
+Updated: 7/24/2026 10:11:59
+Exported: 7/25/2026 7:00:09
+Link: https://chatgpt.com/c/00000000-0000-0000-0000-000000000000
+
+## Prompt:
+28/05/2026, 19:33:31
+
+Vocabulary in table with artikel
+Süßigkeiten
+Rindfleisch
+
+## Response:
+28/05/2026, 19:33:31
+
+Vocabulary - German (mit Artikel)
+
+Deutsch
+Artikel
+Bedeutung (AR)
+Süßigkeiten
+die
+الحلويات
+Rindfleisch
+das
+لحم البقر
+
+إذا أردت، أستطيع أيضًا إعطائك كلمات مشابهة.
+
+## Prompt:
+28/05/2026, 20:13:27
+
+die Koffer
+
+## Response:
+28/05/2026, 20:13:27
+
+Vocabulary – German (mit Artikel)
+
+Deutsch
+Artikel
+Bedeutung (AR)
+Koffer
+der (Plural: die Koffer)
+حقيبة سفر
+
+ملاحظة قصيرة:
+
+المفرد: der Koffer
+
+الجمع: die Koffer
+
+## Prompt:
+28/05/2026, 20:15:45
+
+Badeanzug
+
+## Response:
+28/05/2026, 20:15:45
+
+Vocabulary – German (mit Artikel)
+
+Deutsch
+Artikel
+Bedeutung (AR)
+Badeanzug
+der
+لباس السباحة
+
+## Prompt:
+29/05/2026, 11:01:19
+
+malen
+
+## Response:
+29/05/2026, 11:01:19
+
+Vocabulary – German
+
+Deutsch
+Typ
+Bedeutung (AR)
+malen
+Verb
+يرسم / يلوّن
+
+التصريف في الحاضر (Präsens)
+
+Pronomen
+Konjugation
+ich
+male
+du
+malst
+er/sie/es
+malt
+wir
+malen
+ihr
+malt
+sie/Sie
+malen
+
+## Prompt:
+29/05/2026, 12:20:10
+
+Vogel
+
+## Response:
+29/05/2026, 12:20:10
+
+Vocabulary – German (mit Artikel)
+
+Deutsch
+Artikel
+Bedeutung (AR)
+Vogel
+der
+طائر
+
+Plural
+
+Singular
+Plural
+der Vogel
+die Vögel
+
+أمثلة
+
+Der Vogel singt.
+→ الطائر يغني.
+
+## Prompt:
+30/05/2026, 09:05:00
+
+more words please
+
+## Response:
+30/05/2026, 09:05:00
+
+Vocabulary – German (mit Artikel)
+
+Deutsch
+Artikel
+Bedeutung (AR)
+Wohnung
+die
+شقة
+Tisch
+der
+طاولة
+Haus
+das
+بيت
+Bahnhof
+der
+محطة القطار
+Badezimmer
+das
+حمّام
+Krankenhaus
+das
+مستشفى
+Konditorei
+die
+محل حلويات / pastry shop
+Stück
+das
+قطعة
+genug ( enough)
+—
+enough / كافٍ
+abholen
+Verb
+يستلم / يلتقط
+
+## Prompt:
+30/05/2026, 09:30:00
+
+some phrases
+
+## Response:
+30/05/2026, 09:30:00
+
+Wörter (كلمات):
+
+wichtig = مهم
+
+Erfahrung = خبرة
+
+das ist teuer — هذا غالي
+
+das ist einfach — هذا سهل
+
+German,English,Arabic
+Wasser,water,ماء
+
+der Kellner, - — waiter — النادل
+die Rechnung, -en = bill = الفاتورة
+bestellen (bestellte, bestellt) - to order - يطلب
+Ich möchte bitte bestellen.
+das Trinkgeld — tip — البقشيش
