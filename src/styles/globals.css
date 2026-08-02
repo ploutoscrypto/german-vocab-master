@@ -1,0 +1,112 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 250 40% 99%;
+    --foreground: 240 12% 8%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 12% 8%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 12% 8%;
+    --primary: 245 75% 59%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 240 6% 96%;
+    --secondary-foreground: 240 8% 12%;
+    --muted: 240 6% 96%;
+    --muted-foreground: 240 4% 46%;
+    --accent: 245 60% 96%;
+    --accent-foreground: 245 55% 34%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+    --success: 152 58% 39%;
+    --success-foreground: 0 0% 100%;
+    --warning: 34 92% 48%;
+    --warning-foreground: 0 0% 100%;
+    --border: 240 6% 90%;
+    --input: 240 6% 90%;
+    --ring: 245 75% 59%;
+    --radius: 0.95rem;
+  }
+
+  .dark {
+    --background: 240 16% 6%;
+    --foreground: 240 12% 96%;
+    --card: 240 14% 9%;
+    --card-foreground: 240 12% 96%;
+    --popover: 240 14% 9%;
+    --popover-foreground: 240 12% 96%;
+    --primary: 250 85% 71%;
+    --primary-foreground: 240 24% 8%;
+    --secondary: 240 8% 16%;
+    --secondary-foreground: 240 12% 96%;
+    --muted: 240 8% 15%;
+    --muted-foreground: 240 6% 64%;
+    --accent: 245 38% 22%;
+    --accent-foreground: 245 85% 88%;
+    --destructive: 0 62% 53%;
+    --destructive-foreground: 0 0% 100%;
+    --success: 152 52% 46%;
+    --success-foreground: 0 0% 100%;
+    --warning: 36 92% 56%;
+    --warning-foreground: 240 24% 8%;
+    --border: 240 8% 18%;
+    --input: 240 8% 22%;
+    --ring: 250 85% 71%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    -webkit-tap-highlight-color: transparent;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    overscroll-behavior-y: none;
+  }
+
+  /* Arabic text always renders with the Arabic face, even inside an LTR UI. */
+  .lang-ar,
+  [dir='rtl'] body {
+    @apply font-arabic;
+  }
+
+  ::selection {
+    background: hsl(var(--primary) / 0.2);
+  }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .tap-safe {
+    touch-action: manipulation;
+  }
+  .safe-b {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  .card-flip {
+    transform-style: preserve-3d;
+    transition: transform 0.5s cubic-bezier(0.2, 0.7, 0.2, 1);
+  }
+  .card-flip.is-flipped {
+    transform: rotateY(180deg);
+  }
+  .card-face {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  }
+  .card-back {
+    transform: rotateY(180deg);
+  }
+}
